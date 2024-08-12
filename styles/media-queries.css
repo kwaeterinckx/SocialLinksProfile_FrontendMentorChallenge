@@ -1,0 +1,5 @@
+@media (width >=600px) {
+    .social {
+        padding: var(--spacing-500);
+    }
+}
